@@ -101,3 +101,5 @@ Contributions are welcome! If you've found a bug or have a feature request, plea
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ 
+<!-- Documentation update 1 for solana-sniper-bot -->
